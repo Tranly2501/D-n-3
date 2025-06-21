@@ -1,0 +1,10 @@
+{
+    "html-to-css-autocompletion.autocompletionFilesScope": "multi-root"
+}
+
+    {
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  }
+}
+
