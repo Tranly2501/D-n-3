@@ -571,3 +571,30 @@ line-height: 1.71;
 .blog-item__more:hover{
     color: #2E80CE
 }
+/* ==================appointment========== */
+.appointment{
+    margin: 85px 0;
+}
+.appointment-body{
+    padding: 100px 179px;
+    background: #F6FBFF;
+    justify-items: center;
+
+}
+.appointment__heading::after{
+    content: "";
+    display: block;
+    width: 136px;
+    height: 2px;
+    background: #2E80CE;
+    margin: 18px auto 0;
+}
+.appointment__desc{
+    margin-top: 38px;
+    max-width: 617px;
+    text-align: center;
+}
+.appointment__btn{
+    margin-top: 38px;
+    
+}
